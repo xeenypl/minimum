@@ -1,0 +1,2 @@
+# minimum
+minimal comfortable configuration.
